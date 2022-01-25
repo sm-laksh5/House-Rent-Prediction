@@ -1,6 +1,6 @@
 # House-Rent-Prediction
 
-This is simple project to predict house rent of house. The data consists of 20 sample data.
+This is simple project to predict house rent of house using Linear regression
 
 # Modules used
 1.Numpy
